@@ -1,4 +1,6 @@
 {
+ "apps": [
+   {
 	"name": "Video Star PRO",
     "type": 1,
     "bundleID": "com.frontierdesign.videostar",
@@ -28328,4 +28330,4 @@
             "notify": true
         }
     ]
-}
+ }
