@@ -1,10 +1,11 @@
 {
-  "name": "kurdishONTOP19",
+  "name": "daymix repo",
   "sourceURL": "https://kurd4u.com/",
   "iconURL": "https://kurd4u.com/aseets/vip.JPG",
   "apps": [
     {
-      "name": "Video Star PRO",
+            "name": "Video Star PRO",
+	        "type": 1,
 			"bundleID": "com.frontierdesign.videostar",
 			"version": "13.2.5",
 			"versionDate": "2025-02-11",
@@ -19,6 +20,7 @@
 			},
 	   {
             "name": "Alightmotion",
+			"type": 1,
             "bundleID": "com.alightcreative.motion002",
             "version": "10.1.3",
             "versionDate": "2025-02-05",
