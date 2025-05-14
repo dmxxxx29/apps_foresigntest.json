@@ -1,6 +1,6 @@
 {
   "name": "Neoncat-MODIFIED IPA Library (by daymix)",
-  "sourceURL": "https://github.com/Neoncat-OG/TrollStore-IPAs", // original
+  "sourceURL": "https://github.com/Neoncat-OG/TrollStore-IPAs", # original
   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/refs/heads/main/com.apple.FinalCutApp.companion.png",
   "apps": [
     {
